@@ -1,0 +1,20 @@
+p{
+	
+}
+
+
+.navitem{
+	list-style-type: none;
+	display: inline;
+	margin-right: .487em;
+	padding: 154px 174px
+}
+#navmenu{
+	text-align: center;
+	background-color:black;
+color:white;
+}
+
+#background {
+	background-color:purple; 
+}
